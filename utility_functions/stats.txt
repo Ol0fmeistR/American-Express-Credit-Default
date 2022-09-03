@@ -1,0 +1,2 @@
+Use pearson correlation and ks stat test to check diversity of model ensemble.
+Usually pearson correlation < 0.95 and ks stat test > 0.1 works well for ensembling.
