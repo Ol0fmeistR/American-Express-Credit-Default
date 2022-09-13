@@ -1,0 +1,2 @@
+Data provided by American Express. You can download it here: https://www.kaggle.com/competitions/amex-default-prediction/data
+or alternatively you can use the Kaggle API to download it as well.
